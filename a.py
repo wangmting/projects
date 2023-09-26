@@ -1,1 +1,2 @@
-stergit psssssssssssssssull origin master
+a = 10
+b= 100
